@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from langchain_experimental.agents import create_csv_agent
+from langchain-experimental.agents import create_csv_agent
 from langchain_groq import ChatGroq
 from dotenv import load_dotenv
 
